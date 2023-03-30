@@ -1,6 +1,7 @@
 Santoshakumar Hullur AWS Certified Cloud Practitioner Bengaluru, Karnataka, India.
 
 Summary
+
 Certified AWS Cloud practitioner And Interested to Build Career in
 Dev-Ops.
 - Hands on Experience in Linux Basic commands and
