@@ -1,16 +1,16 @@
-### Hi there 👋
+Santoshakumar Hullur AWS Certified Cloud Practitioner Bengaluru, Karnataka, India.
 
-<!--
-**sandykumar11997/sandykumar11997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Summary
+Certified AWS Cloud practitioner And Interested to Build Career in
+Dev-Ops.
+- Hands on Experience in Linux Basic commands and
+Administration Task on RHEL8.
+- Hands on Experience in AWS Core Service Like
+VPC,EC2, S3, RDS, LAMBDA And Route53.
+- Hands On Experience in Git- Operation (Commit, Push,
+Reset, Merge, Rebase and Branch).
+- Understanding of networking and core networking protocols
+Like TCP/IP, UDP, DNS, SMTP, HTTP.
+- Hands On Experience in Build and Run Container Image inDocker.
+- Completed Java Application Development Course at ABCInstitute
+Bangalore
