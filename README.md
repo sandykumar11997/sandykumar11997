@@ -1,4 +1,4 @@
-Santoshakumar Hullur AWS Certified Cloud Practitioner Bengaluru, Karnataka, India.
+Santoshakumar Hullur working as system admin and also AWS Certified Cloud Practitioner Bengaluru, Karnataka, India.
 
 Summary
 Working as System Adminstrator in Organization Handaling Nearly 200 desktop and Netwoking Insfrastructure Like Switch, Routers and Network Cabaling and having Experince in Trouble Shooting in Desktop as well as Network.
